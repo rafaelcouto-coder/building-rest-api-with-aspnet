@@ -1,6 +1,6 @@
 # building-rest-api-with-aspnet
 
-### Creating resources
+## Creating resources
 
 `Create author:` POST api/authors
 
@@ -8,11 +8,11 @@
 
 `Create collections author:` POST api/authorcollections
 
-### Changing resources
+## Changing resources
 
 `Change course:` PUT api/authors/{authorId}/courses/{coursesId}
 
-### Deleting resources 
+## Deleting resources 
 
 `Delete author:` DEL api/authors/{authorId}
 
