@@ -2,7 +2,7 @@
 
 ### Creating resources
 
-Create author
+`Create author`
 POST api/authors
 
 Create course
