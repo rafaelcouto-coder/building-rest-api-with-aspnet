@@ -5,8 +5,8 @@
 `Create author`
 POST api/authors
 
-Create course
-POST api/authors/{authorId}/courses
+`Create course
+POST` api/authors/{authorId}/courses
 
 Create collections author
 POST api/authorcollections
